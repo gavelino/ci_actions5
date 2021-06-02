@@ -6,8 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          New App - Guilherme v0.2 - With CD
+        <p> 
+          New App - Guilherme v0.2 - With CD - Test branching slow
         </p>
         <a
           className="App-link"
